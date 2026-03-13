@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Claude Code Remote",
-    "slug": "claude-code-remote-app",
+    "slug": "clauderemoteapp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -10,7 +10,7 @@
     "newArchEnabled": true,
     "ios": {
       "supportsTablet": false,
-      "bundleIdentifier": "com.gldc.claudecoderemote",
+      "bundleIdentifier": "com.anastb.claudecoderemote",
       "icon": "./assets/ccr.icon",
       "infoPlist": {
         "UIBackgroundModes": [
@@ -54,13 +54,11 @@
     },
     "extra": {
       "router": {},
-      "eas": {
-        "projectId": "2b217786-e650-43c4-bf18-a36f9ce1aa97"
-      }
+      "eas": {}
     },
-    "owner": "gldcio",
+    "owner": "anastb",
     "android": {
-      "package": "com.gldc.claudecoderemote",
+      "package": "com.anastb.claudecoderemote",
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/android-icon-foreground.png",
         "backgroundColor": "#cb7b5e"
