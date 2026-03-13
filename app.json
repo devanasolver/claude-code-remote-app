@@ -54,7 +54,9 @@
     },
     "extra": {
       "router": {},
-      "eas": {}
+      "eas": {
+        "projectId": "c2f1b65f-41ff-4a8e-9b97-0e3ac48ccfb0"
+      }
     },
     "owner": "anastb",
     "android": {
